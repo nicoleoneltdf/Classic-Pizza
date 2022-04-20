@@ -8,12 +8,14 @@ using UnityEngine.SceneManagement;
 public class GameOver : MonoBehaviour
 {
     public GameObject gameOverScreen;
+    public TMP_Text puntajeFinal;
     public TMP_Text puntaje;
     public GameObject hiscore;
-    float tiempo;
+    public float tiempo;
     bool gameOver;
     float highScore;
     public GameObject spawner;
+
     void Start()
     {
         tiempo = 0;
@@ -24,15 +26,17 @@ public class GameOver : MonoBehaviour
 
     void Update()
     {
-        
+       puntaje.text = "SCORE: " + Mathf.RoundToInt(Time.timeSinceLevelLoad * 10).ToString();
     }
 
-    void OnGameOver() 
+    void OnGameOver()
     {
         spawner.SetActive(false);
-        tiempo = Time.timeSinceLevelLoad * 10;
         gameOverScreen.SetActive(true);
-        puntaje.text = Mathf.RoundToInt(tiempo).ToString();
+        puntaje.enabled = false;
+        tiempo = Time.timeSinceLevelLoad * 10;
+        Debug.Log(tiempo);
+        puntajeFinal.text = Mathf.RoundToInt(tiempo).ToString();
         gameOver = true;
         if(tiempo > highScore) 
         {
