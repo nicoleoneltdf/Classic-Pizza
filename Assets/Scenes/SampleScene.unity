@@ -202,7 +202,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -24, y: 64}
+  m_AnchoredPosition: {x: 64, y: -174}
   m_SizeDelta: {x: 1080, y: 346.8791}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &348972030
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: LIEONEL MESSI 1890
+  m_text: 'LIEONEL MESSI  '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5bdea6e407ae98b4ab864ee58febbb6b, type: 2}
   m_sharedMaterial: {fileID: 4446180247437792092, guid: 5bdea6e407ae98b4ab864ee58febbb6b, type: 2}
@@ -288,7 +288,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: -34.92334}
+  m_margin: {x: 39.0791, y: 0, z: 230.92267, w: 284.8157}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -333,7 +333,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1529111602}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1099,7 +1099,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1529111602}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1445,7 +1445,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 9, y: 438}
+  m_AnchoredPosition: {x: 9, y: 414}
   m_SizeDelta: {x: 1080, y: 346.8791}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &960097794
@@ -1468,7 +1468,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: LA PIZZA ES COMO EL FULBO, SIN ANANA
+  m_text: "ANANANANANANANANANANANANANANANANANANANANANANANANANANANANANANANANASHEN\xB4T"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5bdea6e407ae98b4ab864ee58febbb6b, type: 2}
   m_sharedMaterial: {fileID: 4446180247437792092, guid: 5bdea6e407ae98b4ab864ee58febbb6b, type: 2}
@@ -1495,8 +1495,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1531,7 +1531,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: -34.92334}
+  m_margin: {x: 75.56361, y: -31.973831, z: 116.77954, w: -220.21045}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1673,7 +1673,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1529111602}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1713,7 +1713,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1529111602}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1864,7 +1864,7 @@ RectTransform:
   m_Children:
   - {fileID: 929095964}
   m_Father: {fileID: 1529111602}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2073,6 +2073,7 @@ RectTransform:
   - {fileID: 547468565}
   - {fileID: 960097793}
   - {fileID: 348972029}
+  - {fileID: 1932757411}
   - {fileID: 1334056573}
   - {fileID: 358762654}
   - {fileID: 1116328194}
@@ -2342,11 +2343,47 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverScreen: {fileID: 1529111601}
+  randomPhrase: {fileID: 960097794}
+  phraseCreator: {fileID: 348972030}
   puntajeFinal: {fileID: 1116328192}
   puntaje: {fileID: 638330986}
+  fecha: {fileID: 1932757413}
   hiscore: {fileID: 1334056572}
-  tiempo: 0
   spawner: {fileID: 2074659289}
+  frases:
+  - TE WA METER UNA PINIA
+  - PARA COMER DULCE COMETE UNA FACTURA
+  - ABER QUE PUSIERON
+  - LA PIZZA Y EL POSTRE VAN POR SEPARADO NENE
+  - 'TIRALE MERMELADA TAMBIEN FLACO '
+  - QUE ASCO, VOY A SEGUIR PENSANDO IGUAL ?)
+  - "TIENE MONEY, TIENE CASH, EL PEQUE\xD1O NICOLASH"
+  - 'USTED SE TIENE QUE ARREPENTIR DE LO QUE DIJO '
+  - AY ME AHOGO CON MI RABIA
+  - LA PIZZA ES COMO EL FULBO, SIN ANANA
+  - A DIOSITO NO LE VA A GUSTAR ESTO
+  - DEJA DE BOLUDEAR CON LA COMPU Y PONETE A LABURAR VAGO
+  - YO NO MANEJO LOS GUSTOS, YO MANEJO UN ROLLS ROYCE
+  - YO SOLO SE QUE LA PIZZA VA SIN ANANA
+  - "ANANANANANANANANANANANANANANANANANANANANANANANANANANANANANANANANASHEN\xB4T"
+  - SI SABIA QUE IBAN A EVOLUCIONAR EN ESTO NI LOS CREABA
+  creadorFrase:
+  - 'FEDERICO GUTIERREZ CLASS '
+  - 'IGNA PANIGHETI '
+  - JULIETA BURGOS
+  - DAMIAN ZARATE
+  - TOM BUCHANAN
+  - CRISTINA SKINNER
+  - LOCHI
+  - RAUL "VENDEHUMO" MIRANDA
+  - MOE SZYSLAK
+  - LIONEL MESSI
+  - PAPA FRANSISCO
+  - MI VIEJA
+  - RICARDO FORT
+  - SOCRATES
+  - 'EL COSCU '
+  - DIOS
 --- !u!4 &1755478940
 Transform:
   m_ObjectHideFlags: 0
@@ -2362,6 +2399,141 @@ Transform:
   m_Father: {fileID: 782045926}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1932757410
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1932757411}
+  - component: {fileID: 1932757412}
+  - component: {fileID: 1932757413}
+  m_Layer: 5
+  m_Name: fecha
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1932757411
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932757410}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1529111602}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 219, y: -173}
+  m_SizeDelta: {x: 1080, y: 346.8791}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &1932757412
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932757410}
+  m_CullTransparentMesh: 1
+--- !u!114 &1932757413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932757410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 1999
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 5bdea6e407ae98b4ab864ee58febbb6b, type: 2}
+  m_sharedMaterial: {fileID: 4446180247437792092, guid: 5bdea6e407ae98b4ab864ee58febbb6b, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 47.6
+  m_fontSizeBase: 47.6
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 4
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 39.0791, y: 0, z: 230.92267, w: 284.8157}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &2074659289
 GameObject:
   m_ObjectHideFlags: 0
